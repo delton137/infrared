@@ -1,3 +1,8 @@
+!-----------------------------------------------------------------------------------
+! code hacked together to calculate velocity-velocity autocorrelation function
+! and its Forier transform, called the "density of states"
+! Daniel C. Elton, 2015 - 2018
+!-----------------------------------------------------------------------------------
 program DOS
  use math
  implicit none

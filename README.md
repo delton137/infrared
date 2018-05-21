@@ -7,4 +7,6 @@ format of the dipole moment input file : x, y z of each dipole in 3 columns -- t
 
 A new, more modular and cleaned up version of this code is under developement in /new_version
 
+code for velocity-velocity autocorrelation function and density of states is in /DOS
+
 2013-2016 Daniel C. Elton
